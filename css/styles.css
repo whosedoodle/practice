@@ -1,0 +1,113 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    font-size: 1rem;
+}
+
+h1{
+    font-family: 'Satisfy', cursive;
+    font-size: 3rem;
+    margin-top: 50px;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    font-family: 'Koulen', cursive;
+}
+
+h3 {
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+    margin: 0;
+    color: #EFD3D7;
+}
+
+.top-container {
+    background-color: #8E9AAF;
+    padding: 0;
+}
+
+.middle-container {
+    background-color: white;
+    padding: 0;
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+
+.bottom-container {
+    background-color: white;
+    padding: 0;
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 350px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.middle-container-imgs {
+    width: 25%;
+    float: left;
+    margin: 0 20px 0 0;
+}
+
+.bottom-container-imgs {
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
+
+.experience-container-imgs {
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
+
+.mountain {
+    margin: 0;
+}
+
+#introduction {
+    color: white;
+    position: relative;
+    padding-top: 100px;
+}
+
+#education {
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+#experience {
+    margin: 50px auto 50px auto;
+    text-align: right;
+    line-height: 2;
+}
+
+#skills {
+    margin: 100px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+#links {
+    margin: 0 auto 50px auto;
+    line-height: 2;
+    text-align: right;
+}
